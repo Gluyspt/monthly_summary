@@ -29,11 +29,11 @@ This app summarizes monthly import/export quantities and weights from Excel file
 ```bash
 pip install -r requirements.txt
 python main.py
-
----
+```
 
 ## license
 
 Copyright (c) 2025 Suppawat Rattanalaor
+
 
 
