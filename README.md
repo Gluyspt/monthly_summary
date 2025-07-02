@@ -33,12 +33,12 @@ python main.py
 
 ## excel setup
 
-Name the file as
+```Name the file as
+
 (Country short name)(year of the data)_Full
 
 Example:
 TH2023_Full
-
 US2024_Full
 
 ----------------------------------------------------
@@ -48,18 +48,18 @@ Name the sheet as
 
 Example:
 TH_2023
-
 US_2024
 
 ----------------------------------------------------
 
 Insert information based on this
 
-Date of the transaction 		column B
-Exporter 				            column E
-Importer				            column I
-Quantity				            column W
-Weight					            column Y
+Date of the transaction    column B
+Exporter                   column E
+Importer                   column I
+Quantity                   column W
+Weight                     column Y
+```
 
 ## license
 
