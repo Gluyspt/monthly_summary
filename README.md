@@ -30,7 +30,7 @@ This app summarizes monthly import/export quantities and weights from Excel file
 pip install -r requirements.txt
 python main.py
 
---
+---
 
 ## license
 
