@@ -31,6 +31,34 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## excel setup
+
+Name the file as
+(Country short name)(year of the data)_Full
+
+Example:
+TH2023_Full
+US2024_Full
+
+----------------------------------------------------
+
+Name the sheet as
+(Country short name)_(year of the data)
+
+Example:
+TH_2023
+US_2024
+
+----------------------------------------------------
+
+Insert information based on this
+
+Date of the transaction 		column B
+Exporter 				column E
+Importer				column I
+Quantity				column W
+Weight					column Y
+
 ## license
 
 Copyright (c) 2025 Suppawat Rattanalaor
