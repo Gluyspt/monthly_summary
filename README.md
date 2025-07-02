@@ -14,8 +14,8 @@ This app summarizes monthly import/export quantities and weights from Excel file
 pip install -r requirements.txt
 python main.py
 
-<img src="./assets/main_page.png" width="600"/>
-<img src="./assets/preview_page.png" width="600"/>
+![Main Page](./assets/main_page.png)
+![Preview Page](./assets/preview_page.png)
 
 
 ## License
